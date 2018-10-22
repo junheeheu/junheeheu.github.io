@@ -65,3 +65,5 @@ $ jupyter notebook
 * Gallery 등록을 위해 ([postman_collection파일_Download_Link_1](https://drive.google.com/open?id=1vHNmktm4SE9MIIBXWY1s9qh6eGJjVNxY) or [postman_collection파일_Download_Link_2](https://github.com/junheeheu/skt_ai_lecture_2018/blob/master/VIC%20API.postman_collection.json))을 다운받아 사용한다.
 
 * [git-link](https://github.com/junheeheu/skt_ai_lecture_2018)
+
+* [관련-추가-정보들](https://tde.sktelecom.com/wiki/pages/viewpage.action?pageId=180979799)
