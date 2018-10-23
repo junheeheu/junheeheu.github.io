@@ -13,6 +13,11 @@ categories: [post, dnn, facerecognition, deeplearning]
 ------------------------
 [2017-Link](https://junheeheu.github.io/post/2017/12/20/VoDFaceAnnotation.html)
 
+News
+------------------------
+* since 53 sec
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/31-873EFTpY?ecver=1" width="640" height="360"></span></iframe>
+
 Demo Clip
 ------------------------
 <iframe src="https://lh3.googleusercontent.com/RaFHEIfva8KveFu9cwMhUMoMHMpoK3KLMZzu5rghSG2l6NZzUQz54jxVjZck7n9DgAZDiFr2T-RBzsQfFtsUCyTRnZhbnoDbnP6HIoqKsuEVIPI4cL2BdPZg16_-OlJD5ahVS0fpc0RA3xa1sMNCkmWxNnndqosA1I1sufyo7HD3nZUQj5XQUw-vJx7YZljQhjxql1t7E6u9bCmy7-kWee22QfJFyWFv0gTxCUx2AZAZJaG-LxDHqZF-ecGRmHmh9NcWxsV57HupG-JLBI6_RYoWpgSHbaPhG5E8gLCWVJpq8zYfHV6obx_hu1zw9D1s5NJIqMrQqhC1ROssIt9UhikoWwsuqoU4RePZVmMXYjIIJtddjFTI_0HHuqhMPvLbGqkbIhoL3YoRPVm9gZPFnQPWxY8r8OAVt8BwbiG-iHfTst5hjUrFWlTOFM2al599BF1Upa_aKxKgun5bE5YP9f8Te8bndWFH-3r23ljfxXDb3GfLqODRxPCrgYxna5rtEmK8gFVoUK03ghw8oPIOJKA7m4cSG0b3hHJrtZ9KZ41mCKyM75Oqx6bphKpMIzoUxa7HKRK6eQXtcwfyoiZ6FH68SyetwOqNk6xHajwFpb4A0u-IO2wqfRAJYO6u0E4U=m18" width="640" height="360"></span></iframe>
