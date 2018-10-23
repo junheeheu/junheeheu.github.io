@@ -3,7 +3,7 @@ layout: post
 title:  "Mobaxterm setting for aws with jupyter @ Win"
 date:   2018-10-23
 background: '/img/posts/skt.jpg'
-categories: post
+categories: [post, mobaxterm, ssh-portforwarding, aws]
 ---
 
 AWS의 Junpyter Notebook 사용을 위한 Mobaxterm 설정 

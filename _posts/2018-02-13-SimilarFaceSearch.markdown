@@ -3,7 +3,7 @@ layout: post
 title:  "2018 Similar Face Search"
 date:   2018-02-13
 background: '/img/posts/skt.jpg'
-categories: post
+categories: [post, dnn, facerecognition, deeplearning]
 ---
 
 2018 Similar Face Search Console Demo

@@ -3,7 +3,7 @@ layout: post
 title:  "2018 VoD Face Annotation"
 date:   2018-08-13
 background: '/img/posts/skt.jpg'
-categories: post
+categories: [post, dnn, facerecognition, deeplearning]
 ---
 
 2018 VoD Face Annotation

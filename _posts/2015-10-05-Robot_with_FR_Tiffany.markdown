@@ -9,8 +9,6 @@ categories: [post, robot, facerecognition, deeplearning]
 2015 SKT Prototyping Robot (Tiffany) ver. 1
 ============================================
 
-- 본 Code는 SKT에 모든 권한이 있다.
-
 Greeting with face recognition
 ------------------------------------------------
 <iframe src="https://drive.google.com/file/d/12OJ5N3WrHEc80gZYXtvQdF8A4j_uXAys_w/preview" width="640" height="360"></span></iframe>
