@@ -50,6 +50,6 @@ Expression
 ------------------------
 <iframe src="https://drive.google.com/file/d/143Qgm7pG7EgybibBvp0G6owDJ2P8pRPSJA/preview" width="640" height="360"></span></iframe>
 
-(Additional) Facial Attribute Recognition
+(Additional) Facial Attribute Recognition (by colleagues, Jihoon Jeong and Youjin Kim)
 ------------------------
 <iframe src="https://lh3.googleusercontent.com/rRaROj7t3_QrbY1loYNaVK-pYfoka1cY8MfOvQVgfpeEwWIzUvnCeTBjnV05BkveZtV74-VcFtIk0wMxbZw34cQrax33luu6Otc26THr0a_joUNis4Gz18DuAEUCujannnBaVwNtNrY1uGepK-9B6MkPrejkMhI0bPeoyd_PkxZ9S0RRGHLyj9H321wpqCza5Fzic4P23F_HR8f3XC0IHwtwvWPk8tRr5I_b36nhfSzz4ZUkyO2KcImltnEmLfF_ZnvAUEs73SkrPw4UE0Et3BeQsmr9VgVjvE3FVdMX4HCCVO1zFrVzGWLfAIvw5CKJ8OdgrMKz5nX5qVyLguvuF1Y2GwUNEVcOD5RajdtqGsPH7Q3cifbGI3epPp2appTmcv01N1og34CPieEbvnv0wFaQIti9MAKc0QUYrjJG2SzbG4ugXSYeNwIPKZIeMzl5wiIAz5OKHLl1DdVe2jF7Fycd0ytJd6JVEUsYCB0c07cPDxZLRjMFIM3hQ5MHHnGJj3INMWXD5MqOl9fWc_Hx7Qf-sTUu0i_B5UX_2K9Xe_ydxZnBjh3HSL1rhUHsbxgXyB6kUJtUEmW9HnlosyCKT3fxn4V61MnaqIXNAmiof5eklf5op_z8zlAAXfqkxXl6=m18" width="640" height="360"></span></iframe>
