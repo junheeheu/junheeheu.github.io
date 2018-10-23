@@ -26,16 +26,14 @@ EXPERIENCE
 
 EDUCATION
 ---------------------
-* Ph.D. in Electrical Engineering, Seoul National University, Korea, 2005-2009
+* Ph.D. in Electrical Engineering, Seoul National University, Korea, (2005-2009)
   * Advisor: Prof. Sang-Uk Lee,
-* Master. in Electrical Engineering, Seoul National University, Korea, 2003-2005
+* Master. in Electrical Engineering, Seoul National University, Korea, (2003-2005)
   * Advisor: Prof. Sang-Uk Lee,
 
 SKILLS
 ---------------------
-* C++
-* python
-* matlab
+* C++, python, matlab
 
 Code
 --------------
