@@ -6,10 +6,8 @@ background: '/img/posts/skt.jpg'
 categories: post
 ---
 
-Results
+VoD System Demo from SKT ICT Summit Conference @ 2017
 ================================
-
-- 본 Code는 SKT에 모든 권한이 있다.
 
 Conference Demo
 ------------------------

@@ -6,9 +6,12 @@ background: '/img/posts/skt.jpg'
 categories: post
 ---
 
-Results
+2018 VoD Face Annotation
 ================================
-- 본 Code는 SKT에 모든 권한이 있다.
+
+2017 System Demo
+------------------------
+[2017-Link](https://junheeheu.github.io/post/2017/12/20/VoDFaceAnnotation.html)
 
 Demo Clip
 ------------------------

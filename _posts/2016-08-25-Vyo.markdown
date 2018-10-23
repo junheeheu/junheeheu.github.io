@@ -3,13 +3,11 @@ layout: post
 title:  "2016 Guest Recognition System Prototyping"
 date:   2016-08-25
 background: '/img/posts/skt.jpg'
-categories: [post, robot, facerecognition, deeplearning]
+categories: [post, robot, prototyping, cornel]
 ---
 
 2015 SKT Prototyping Robot (Vyo)
 ============================================
-
-- 본 Code는 SKT에 모든 권한이 있다.
 
 Vyo
 ------------------------------------------------

@@ -6,10 +6,8 @@ background: '/img/posts/skt.jpg'
 categories: post
 ---
 
-Results
+2018 Similar Face Search Console Demo
 ================================
-
-- 본 Code는 SKT에 모든 권한이 있다.
 
 Crop Target Face from a VoD
 ------------------------
