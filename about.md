@@ -19,7 +19,8 @@ RESEARCH INTERESTS
 
 EXPERIENCE
 ---------------------
-* Senior Engineer, SK Telecom, Korea (2013-Presents)
+* Senior Engineer, SK Telecom, AI Tech. Unit. Korea (2013-Presents)
+  * Face Recognition (current)
 * Senior Engineer, Emerging Tech. Lab, CSP R&D center, Samsung SDS Co., Ltd., Korea (2011-2013)
 * Postdoctoral Researcher in Electrical and Computer Engineering(ECE) department, Georgia Institute of Technology, USA (2009-2011)
 
