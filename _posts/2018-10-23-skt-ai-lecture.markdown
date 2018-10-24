@@ -7,7 +7,7 @@ categories: [post, dnn, deeplearning, lecture]
 tags: [2018, lecture, snu, korea, postech]
 ---
 
-2018년 영상인식 강좌의 실습을 위한 Code
+2018년 영상인식 강좌의 실습을 위한 Code (현재 서버 점검 중입니다. 죄송합니다.)
 ================================
 
 - 본 Code는 SKT에 모든 권한이 있다.
