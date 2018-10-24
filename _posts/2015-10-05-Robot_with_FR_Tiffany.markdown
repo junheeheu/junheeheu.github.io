@@ -4,6 +4,7 @@ title:  "2015 SKT Tiffany Robot Prototyping"
 date:   2015-10-05
 background: '/img/posts/skt.jpg'
 categories: [post, robot, facerecognition, deeplearning]
+tags: [face-recognition, robot, prototyping, Tiffany, dlib, face-detection]
 ---
 
 2015 SKT Prototyping Robot (Tiffany) ver. 1

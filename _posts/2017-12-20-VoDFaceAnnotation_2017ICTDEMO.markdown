@@ -4,6 +4,7 @@ title:  "2017 VoD Face Annotation System"
 date:   2017-12-20
 background: '/img/posts/skt.jpg'
 categories: [post, dnn, facerecognition, deeplearning, prototyping]
+tags: [tensorflow, mobile-net, inception-resnet, deep-learning, dnn, face-recognition, prototyping]
 ---
 
 VoD System Demo from SKT ICT Summit Conference @ 2017

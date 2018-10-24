@@ -4,6 +4,7 @@ title:  "2018 Image based AI Lecture @ SNU, POSTECH, KOREA Univ."
 date:   2018-10-23
 background: '/img/posts/skt.jpg'
 categories: [post, dnn, deeplearning, lecture]
+tags: [2018, lecture, snu, korea, postech]
 ---
 
 2018년 영상인식 강좌의 실습을 위한 Code

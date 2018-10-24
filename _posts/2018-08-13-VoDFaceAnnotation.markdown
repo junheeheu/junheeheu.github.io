@@ -4,6 +4,7 @@ title:  "2018 VoD Face Annotation"
 date:   2018-08-13
 background: '/img/posts/skt.jpg'
 categories: [post, dnn, facerecognition, deeplearning]
+tags: [tensorflow, mobile-net, inception-resnet, deep-learning, dnn, face-recognition, prototyping]
 ---
 
 2018 VoD Face Annotation

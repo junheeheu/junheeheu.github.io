@@ -4,6 +4,7 @@ title:  "2016 Guest Recognition System Prototyping"
 date:   2016-08-25
 background: '/img/posts/skt.jpg'
 categories: [post, face-recognition, prototyping, deep-learning, dnn]
+tags: [caffe, vgg16, deep-learning, dnn, face-recognition, prototyping]
 ---
 
 2016 SKT Auto Guest Registration System Prototyping

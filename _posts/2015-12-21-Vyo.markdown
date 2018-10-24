@@ -4,6 +4,7 @@ title:  "2015 SKT Vyo Robot Prototyping with Cornel Univ"
 date:   2015-12-21
 background: '/img/posts/skt.jpg'
 categories: [post, robot, prototyping, cornel, vyo]
+tags: [robot, prototyping, Vyo, color-recognition, tracking, Cornel, Guy-Hoffman]
 ---
 
 2015 SKT Prototyping Robot (Vyo)
