@@ -1,45 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title:             Jun-Hee
+email:             junhee.heu_at_gmail.com
+description:       Jun-Hee's blog
+author:            Jun-Hee HEU
+baseurl:           ""
+url:               "https://junheeheu.github.io"
 
-# Site settings
-title: JH
-brief-intro: DNN based Image Processing Researcher
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://junheeheu.github.io" # the base hostname & protocol for your site
-
-permalink: /:year/:month/:day/:title/
-
-# other links
+# Social Profiles
+twitter_username:  
+github_username:   junheeheu
 facebook_username: junhee.heu
-github_username:  junheeheu
-email: junhee.heu_at_gmail.com
-
-description_footer: JUN-HEE HEU
-
-# comments
-disqus_shortname: juny
 
 # Build settings
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-# port
-# port: 1234
-
-# url
-category_dir: category/
-tag_dir: tag/
-
-# excerpt
-excerpt_separator: "\n\n\n\n"
-
-# paginate
-gems: [jekyll-paginate]
-paginate: 10
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
