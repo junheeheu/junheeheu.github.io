@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "(현재 서버 점검 중입니다. 죄송합니다.) 2018 Image based AI Lecture @ SNU, POSTECH, KOREA Univ."
+title:  "2018 Image based AI Lecture @ SNU, POSTECH, KOREA Univ."
 date:   2018-10-23
 background: '/img/posts/skt.jpg'
 categories: [post, dnn, deeplearning, lecture]
 tags: [2018, lecture, snu, korea, postech]
 ---
 
-2018년 영상인식 강좌의 실습을 위한 Code (현재 서버 점검 중입니다. 죄송합니다.)
+2018년 영상인식 강좌의 실습을 위한 Code (서버 복구 완료되었습니다. [git-link](https://github.com/junheeheu/skt_ai_lecture_2018)에서 새로 다운 받으셔서 사용하시기 바랍니다.)
 ================================
 
 - 본 Code는 SKT에 모든 권한이 있다.
