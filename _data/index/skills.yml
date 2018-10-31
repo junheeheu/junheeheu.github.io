@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Python, C++, Matlab, Latex, Docker, git, Deep Learning
+percentage: 90, 80, 80, 90, 50, 50, 85

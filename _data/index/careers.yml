@@ -1,0 +1,13 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: SK Telecom, Korea
+  date: 2013 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Senior Engineer (Current Job - Face Recognition)
+
+- name: Samsung SDS, Korea
+  date: 2011 - 2013
+  job: Senior Engineer, Emerging Tech. Lab, CSP R&D center
+
+- name: Georgia Institute of Technology, USA
+  date: 2009 - 2011
+  job: Postdoctoral Researcher in Electrical and Computer Engineering(ECE) department

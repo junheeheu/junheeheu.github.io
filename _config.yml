@@ -1,19 +1,71 @@
-title:             Jun-Hee
-email:             junhee.heu_at_gmail.com
-description:       Jun-Hee's blog
-author:            Jun-Hee HEU
-baseurl:           ""
-url:               "https://junheeheu.github.io"
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Jun-Hee's blog
+email: junhee.heu_at_gmail
+description: Welcome to my blog
+url: # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
 
-# Social Profiles
-twitter_username:  
-github_username:   junheeheu
-facebook_username: junhee.heu
-
-# Build settings
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
 markdown:          kramdown
-paginate:          5
-paginate_path:     "/posts/page:num/"
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: To Happy
+  avatar: #leonids-logo.png
+  job: Jun-Hee HEU
+  bio: "DNN Image Recognition Engineer"
+  email: junhee.heu_at_gmail.com
+  disqus-shortname:
+  twitter: #username
+  facebook: junhee.heu
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: junheeheu
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
