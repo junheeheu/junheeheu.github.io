@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Python & Google Sheets 연동 - Step1: 처음 연동하기 예제"
+title:  "Python & Google Sheets 연동 - 읽기 가능 예제"
 date:   2018-11-02
 categories: [python, google_sheets]
 tags: [2018, python, google_sheets]
 ---
 
-파이썬을 이용한 구글 스프레드 시트 사용 - Step1: 처음 연동하기 예제
+파이썬을 이용한 구글 스프레드 시트 사용 - 읽기 가능 예제
 ================================
+근데 이건 읽기만 가능한 것 같은데....
+
 
 구글 credentials.json 받기
 --------------------------------
