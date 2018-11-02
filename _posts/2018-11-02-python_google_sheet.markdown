@@ -16,12 +16,14 @@ tags: [2018, python, google_sheets]
   * 다운로드 configuration file
 ![step1](https://lh3.googleusercontent.com/b2WoYO-LIOgw-XPww-GWATc2pwwlmIQaoI1PYlbVvgHUiKnoZGEFpFXytXgwvoAE6oiKPlJGNoYhXgw4YU46kg08Bb9rUtKQ9WWGf2wLDbprlvRfAUNo7x-mpKQq5n-RYA5Oq3yI22qGoA_NRyubk3N1MuPMvaa0Lp55IYyucbQ2Mfzmm7wI9Agx4kVoj5BkC_rzQGdCMaPOKvuq2_epztZKFsfWrmi3nfB4V9Nq1yIXs3ifJOG7Rj0CC9ON0qRXbPSwABZz62AQOt8LCIWX2IkJyIx--knwe5aSnCGel_8OiVJ4k8anQJ1wvBm8wgIR9i_wJUBkN-N_ps87ss26tfZPRyavD0jHdkNKrS4xVAriwM5_tAnakuvvE9fm4-KpLPzgaaEelslY_Azn-wT2JWCS-vSfofvvlp8kr3kM7GYgxNhae0Y9NVQqwBRbl2nrKX2RP2PjO9Skgfb2np5v8ytRnuZcHpeExxXFyECO2ZGKJdgEDPqajvZenJDn9W3m8zvBLBELfLPF2EQBq3u-5K--kM6MBohHrYfcMBSvyTDnN-W28BNQ3OvGE4_moKirY8y0Km5nlr_U2tkfjXjfNeQ8xb2XtgDaNyNKVsluEqn3X9LVsbhhGUBot8ricgkvtyTsRFwOkVW-ixAyCRQBdCnraQ=w1618-h484-no)
 
-* Google Client python Lib. 설치
+Google Client python Lib. 설치
+------------------------
 ~~~
 pip install --upgrade google-api-python-client oauth2client
 ~~~
 
-* 테스트 코드
+테스트 코드
+----------------------
 ```
 from __future__ import print_function
 from googleapiclient.discovery import build
@@ -59,12 +61,12 @@ def main():
 if __name__ == '__main__':
     main()
 ```
-  * SAMPLE_SPREADSHEET_ID 는
+* SAMPLE_SPREADSHEET_ID 는
   ![step2](https://lh3.googleusercontent.com/xb_ocy6Rfntvb4wnLUscO2bEOY5CiW3B-8NAcCdQHjaVHcj3EOh2DVAxYs0Lr2iO7-L1l6mMQ0ibDzKvMiokiKsdtZ-gWl45nyuTHRIJDmiK4amWkevLHgfuOfGhJB-u3CV7AWr4qeme5hwck2lXRKo_-quXU0l-9pmMNvIu2KXSoFlhSJGPP_ERsoRLDVLFPfllAsqFZ7g11BVkUrakWr60ik-2b3wgPmNNPG9jmVuRWT53xniTbZPWVUbYmgbDr0DhDaSYHPJzTaLmz4KBkreROVvXgFtalbSp_UkFswAanaOYEmIGHFbY91qFP21khqISOkaojZ3xMtugG4X3LdytKHP4ZTggBLL9Yj9zmzbpypdcxeOcHM2pSusQosoJCgMSjudF1OVSY677mqFEDwUKaaZN9gV4LF3hh_bDffvUK2xG8VCVYszsW8SCs1SNse2uZZWdVaaQWddSVbYM_RQ0Si0Kw3l6j0NWgw270Kg1KMm3pTCPOXBmeeNLS7rIkexM6xcI223eU9E43N-BHvMN7Gsh6VX_yLVwnROFwoXLv3M67rSurOJriQWtrz01SOPQAJS4Xu7_cRf3i0VgBxeLzlt8ARHD4L2dJ0AM2QRcwhi17NfoKDEwxSqjNYyycuz9KHzsX8XrMn6nTpno7gK-gw=w1522-h140-no)
   ~~~
   SAMPLE_SPREADSHEET_ID = '1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms'
   ~~~
-  * Class Data!A2:E 의 Class Data는 탭의 이름
+* Class Data!A2:E 의 Class Data는 탭의 이름
   ![step3](https://lh3.googleusercontent.com/tLf3StFBtE4lnSc7qWYj8279UgbwiKvS6lj_bGja3OQsEIQVEsFbllwl8wFLh9PB_OvfYVl3TwRB9eyU1ERNazo-PqNhCX29OI5E7PG_mndMqolD6wtbqmz4MpOAPl_d5YrKbDOyOaAXntLbc3q0Dnz73DayEiWJya3JUJ3Wqf4O5qUpenchH3CpeXZfESsy8a-NtVdrYB7AecY_oMn-soX856CopfEgG3pfZ2co6epp_4tiHYJ7V1RQ7kMD7AYNu-snhs78Xq_7UAOV4ZiaVAP_nDdJaplnOaCSWf_wjrYnGPYJhVkMJpzkJdKhDTX1z7tnU0hAQuRo3NlsdswMTgNrmBMULoulSTAl66HhjIMPbc_Zk74fsMM6i5Y8__sLxDYtnPSDcnkhv9p_UZnYIQXbUh2KwZ-mtziD2jnh2sb92dNOqvrBpemQblp-9yGAcrIJkln6nStlauqcmxrqKmlA2iVdOShJTD-IFkl3XxAzirRiFlIqgKAZrEzSxVQrr4AE-4zjiXiSNwzysa1H_2y5zdNITLQD2OXQwsJhaPq28XQbC8xx6fzOfkMnIfh_tizgaRspJ2-NiWVC7fWxD4uZ3SHXla0nXlkknKF5zn3-fRyQfhz20Js1mLAuqTZRhwbz5_GCQSv9DMUqfNVgaiFtOQ=w868-h338-no)
   ~~~
   RANGE_NAME = 'Class Data!A2:E'
