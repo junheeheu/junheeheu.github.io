@@ -3,7 +3,7 @@ layout: post
 title:  "2018 Image based AI Lecture @ SNU, POSTECH, KOREA Univ."
 date:   2018-10-23
 background: '/img/posts/skt.jpg'
-categories: [post, dnn, deeplearning, lecture]
+categories: [lecture]
 tags: [2018, lecture, snu, korea, postech]
 ---
 

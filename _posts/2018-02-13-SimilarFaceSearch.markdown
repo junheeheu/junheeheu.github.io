@@ -3,7 +3,7 @@ layout: post
 title:  "2018 Similar Face Search"
 date:   2018-02-13
 background: '/img/posts/skt.jpg'
-categories: [post, dnn, facerecognition, deeplearning]
+categories: [current]
 tags: [tensorflow, mobile-net, inception-resnet, deep-learning, dnn, face-recognition, prototyping, tree-search]
 ---
 

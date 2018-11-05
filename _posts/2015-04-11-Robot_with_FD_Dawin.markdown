@@ -3,7 +3,7 @@ layout: post
 title:  "2015 SKT Dawin Robot Prototyping"
 date:   2015-04-11
 background: '/img/posts/skt.jpg'
-categories: [post, robot, facerecognition, deeplearning]
+categories: [past]
 tags: [dnn, robot, prototyping, dawin-op, dlib, face-detection]
 ---
 

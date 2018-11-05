@@ -2,7 +2,7 @@
 layout: post
 title:  "Python & Google Sheets 연동 - 읽기 가능 예제"
 date:   2018-11-02
-categories: [python, google_sheets]
+categories: [python]
 tags: [2018, python, google_sheets]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "2015 SKT Tiffany Robot Prototyping"
 date:   2015-10-05
 background: '/img/posts/skt.jpg'
-categories: [post, robot, facerecognition, deeplearning]
+categories: [past]
 tags: [face-recognition, robot, prototyping, Tiffany, dlib, face-detection]
 ---
 

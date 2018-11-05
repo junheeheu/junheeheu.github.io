@@ -3,7 +3,7 @@ layout: post
 title:  "Mobaxterm setting for aws with jupyter @ Win"
 date:   2018-10-23
 background: '/img/posts/skt.jpg'
-categories: [post, mobaxterm, ssh-portforwarding, aws]
+categories: [lecture]
 tags: [mobaxterm, ssh-portforwarding, aws, window]
 ---
 

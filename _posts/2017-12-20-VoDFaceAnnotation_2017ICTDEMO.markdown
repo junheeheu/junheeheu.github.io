@@ -3,7 +3,7 @@ layout: post
 title:  "2017 VoD Face Annotation System"
 date:   2017-12-20
 background: '/img/posts/skt.jpg'
-categories: [post, dnn, facerecognition, deeplearning, prototyping]
+categories: [current]
 tags: [tensorflow, mobile-net, inception-resnet, deep-learning, dnn, face-recognition, prototyping]
 ---
 
