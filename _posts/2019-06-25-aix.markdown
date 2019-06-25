@@ -6,6 +6,7 @@ categories: [presentation]
 tags: [2019, face, ppt, face recognition]
 ---
 
+
 얼굴 인식 for SKB INSIDE 서비스
 ======================================
 
