@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "2019 ai.x 발표"
+date:   2019-06-25
+categories: [presentation]
+tags: [2019, face, ppt, face recognition]
+---
+
+얼굴 인식 for SKB INSIDE 서비스
+======================================
+
+발표 자료 [https://docs.google.com/presentation/d/1cIXZ5XkYyKCyiLD6eSMrmW0GP2drMJejxdzfYlh07OA/edit?usp=sharing]
