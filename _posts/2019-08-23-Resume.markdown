@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "RESUME"
+date:   2019-08-23
+categories: [Resume]
+tags: [2019, face, face recognition, resume]
+---
+
+## EDUCATION
+ 
+* Ph. D. in Seoul National Univ., Korea (date: 2005 - 2009)
+* Master in Seoul National Univ., Korea (date: 2003 - 2005)
+
+## CAREERS
+* SK Telecom, Korea
+  * 2013 ~
+  * Senior Engineer (Current Job - Face Recognition)
+
+* name: Samsung SDS, Korea
+  * 2011 - 2013
+  * Senior Engineer, Emerging Tech. Lab, CSP R&D center
+
+* name: Georgia Institute of Technology, USA
+  * 2009 - 2011
+  * Postdoctoral Researcher in Electrical and Computer Engineering(ECE) department
+
+## EXPERIENCES
+* DNN based Face Recognition Engine Development including Face Detection & Face Recognition @ SK Telecom
+  * 2016~
+  * Face Recognition based Actor Meta Generation Engine for SKB Btv INSIDE Service
+    * served since 2019.03
+* Face Recognition Engine Development using PDB & LDA @ SK Telecom
+  * 2015
+* People Counting Engine @ SK Telecom
+  * 2013-2014
+* Video Analytics Engine for Surveillance @ Samsung SDS
+  * 2011-2013
+* Posture and Gesture Recognition @ Samsung SDS
+  * 2011-2013
+* Building Recognition for Augmented Reality @ Samsung SDS
+  * 2011-2012
+
+## PUBLICATIONS
+### International Journals
+* Junhee Heu, Jeong-Hyu Yang, Chang-Su Kim, and Sang-Uk Lee, “Effective quantisation scheme for principal components of 3-D mesh sequences,” Electronics Letters, 2006.
+* Jun-Hee Heu, Chang-Su Kim, and Sang-Uk Lee, “SNR and temporal scalable coding of 3-D mesh sequence using singular value decomposition,” Journal of Visual Communication and Image Representation, 2009.
+* Soon-Young Lee, Jun-Hee Heu, Chang-Su Kim and Sang-Uk Lee, “Object removal and inpainting in multi-view video sequences,” International Journal of Innovative Computing, Information and Control, 2010.
+* Dae-Young Hyun, Jun-Hee Heu, Chang-Su Kim and Sang-Uk Lee, “Prioritized image and video colorization based on Gaussian pyramid of gradient images,” Journal of Electronic Imaging, 2012.
+* Kichun Lee, Jun-Hee Heu, Jieun Kim, “SVM-based Boundary Recovery of a Medical Image Segment In Low Resolutions,” Journal of Electronic Imaging, 2013 (under revision).
+
+### International Conference
+* Junhee Heu, Jeong-Hyu Yang, Chang-Su Kim, and Sang-Uk Lee, “RD Optimized compression of 3-D mesh sequences based on principal component analysis,” ACMSE 2006.
+* Soon-Young Lee, Jun-Hee Heu, Sung-Bum Park, Chang-Su Kim, and Sang-Uk Lee, “Mesh Editing Using Motion Features”, in Proc. SPIE Optics East, 2006.
+* Soon-Young Lee, Jun-Hee Heu, and Sang-Uk Lee, “Mesh editing technique using a vertexwise motion vector,” Frontiers of Computer Vision, Jan.,  2007.
+* Hai Liu, Dong-Jin Kwon, Jun-Hee Heu, Sang-Uk Lee, “Fast Mode Decision for P-Frames in H.264,” ITC-CSCC, 2007.
+* Soon-Young Lee, Jun-Hee Heu, Chang-Su Kim, and Sang-Uk Lee, “An object removal using multi-view sequence inpainting technique,” In Proc. International Conference on Intelligent Information Hiding and Multimedia Signal Processing, 2008.
+* Soon-Young Lee, Jun-Hee Heu, Chang-Su Kim, and Sang-Uk Lee, “An object inpainting algorithm for multi-view video sequences,” In Proc. IEEE International Conference on Image Processing, 2008.
+* Dae-Young Hyun, Jun-Hee Heu, and Sang-Uk Lee, “Video colorization based on color reliability,” In Proc. International Workshop on Advanced Image  Technology, 2009.
+* Sang-Heon Lee, Soon-Young Lee, Jun-Hee Heu, and Sang-Uk Lee, “Video inpainting algorithm for a dynamic scene,” International Workshop on  Advanced Image Technology, 2009.
+* Sang-Heon Lee, Soon-Young Lee, Jun-Hee Heu, Chang-Su Kim, and Sang-Uk Lee, “Video inpainting algorithm using spatio-temporal consistancy,” in Proc. SPIE Electronic Imaging, 2009.
+* Jun-Hee Heu, Dae-Young Hyun, Chang-Su Kim, and Sang-Uk Lee, “Image and video colorization based on prioritized source propagation,” In Proc. IEEE International Conference on Image Processing, 2009
+* Dae-Young Hyun, Jun-Hee Heu, Chang-Su Kim, and Sang-Uk Lee, “Reliable colorization algorithm for image and videos,” In proc. of the European Signal Processing Conference, 2009.
+* Dae-Young Hyun, Jun-Hee Heu, Chang-Su Kim, and Sang-Uk Lee, “Region-based backlight compensation algorithm for images and videos,” In proc. IEEE International Conference on Image Processing, 2010
+
+
+## SKILLS
+* Python, C++, Matlab, Latex, Docker, git, Deep Learning
+
+## INTERESTING RESEARCH AREA
+* Deep Learning based Image Recognition (Including Face Detection & Face Recognition)
+* Gesture Recognition
+* Video Analytics for Surveillance
+* Learning based Segmentation
+* 2D/3D Coding/Editing
+
+## REFERENCES
+* Prof. Sang-Uk Lee
+  * Electric Engineering and Computer Science in Seoul National University
+  * sanguk@ipl.snu.ac.kr
+* Prof. Chang-Su Kim
+  * Electric Engineering and Computer Science in Korea University
+  * changsukim@korea.ac.kr
+* Prof. Anthony Jeseph Yezzi
+  * School of Electrical Engineering, Georgia Institute of Technology
+  * ayezzi@ece.gatech.edu
+
+## Homepage
+* junai.pe.kr
